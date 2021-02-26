@@ -1,0 +1,8 @@
+*.pickle
+*.tar.gz
+*.db
+*.cifar-10-batches-py
+*.png
+*.PNG
+*.zip
+cifar-10-batches-py
